@@ -1,0 +1,18 @@
+Problem :
+Write a code to find area and perimeter of rectangle
+Write a code to find diameter, circumference and area of a circle
+
+Hint :
+Find out how to count area of rectangle
+Find out formula for perimeter and area of rectangle
+formula for area Lenght + Width
+formula for perimeter 2*Lenght + 2*Width
+
+Solution :
+define variable and assign value for variable
+const panjang = 10
+const lebar = 5
+
+
+Problem :
+Write a code to find angles of triangle if two angles are given.
